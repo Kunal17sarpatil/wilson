@@ -1,0 +1,35 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+      padding-left: 40;
+      margin-top: 5%;
+      margin-left: 30%;
+    }
+  
+    .Login form {
+      margin: 50 auto;
+      max-width: 320px;
+    }
+  }
+
+.card3{
+    width: 20%;
+    height: 70%;
+    border-style: solid;
+    padding: 2%;
+    border-color: #fff;
+    border-radius: 3%;
+    background-color: #2d3d4b;
+}
+
+.login_color{
+  color: #fff;
+}
+
+.username_color{
+  color: #fff;
+}
+
+.password_color{
+  color: #fff;
+}

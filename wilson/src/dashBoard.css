@@ -1,0 +1,56 @@
+
+body{
+    background: #1c2630;
+}
+.outer-div{
+    margin-top: 5%;
+    margin-left: 25%;
+    /* background-image: url("Frame\ 4.png"); */
+    
+}
+.inner-div{
+    border-radius: 10px;
+}
+
+.card2{
+    width: 60%;
+    height: 90%;
+    border-style: solid;
+    padding: 2%;
+    border-color: #fff;
+    border-radius: 3%;
+    background-color: #2d3d4b;
+}
+/* .title{
+    margin-bottom: 2%;
+} */
+.theory{
+    margin-bottom: 2%;
+}
+.submit{
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 35%;
+    height: 35px;
+    background-color: #e3f1ff;
+}
+
+.heading1{
+    color: #fff;
+}
+
+.lang{
+    color: #fff;
+}
+
+.title_color{
+    color: #fff
+}
+
+.theory_color{
+    color: #fff;
+}
+
+.code{
+    color: #fff;
+}
